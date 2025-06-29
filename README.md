@@ -14,7 +14,8 @@ CineVerse is a modern movie discovery web application built with React, TypeScri
 
 [Live Demo](https://cine-verse-vol1.vercel.app)
 
-![CineVerse Screenshot](./public/demo-screenshot.png)
+![CineVerse Screenshot](https://raw.githubusercontent.com/sohebhashmi48/CineVerse-vol1/main/src/data/Screenshot%202025-06-29%20145154.png)
+
 
 ## Getting Started
 
